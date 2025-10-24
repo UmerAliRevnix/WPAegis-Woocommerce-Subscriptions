@@ -1,0 +1,1 @@
+# WPAegis-Woocommerce-Subscriptions
